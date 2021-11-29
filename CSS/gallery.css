@@ -1,0 +1,50 @@
+.anh{
+    width: 1000px;
+    border: black solid 2px;
+}
+.khochuaanh{
+    margin-left: 80px;
+    border: black solid;
+    margin-right: 80px;
+    border-radius: 5px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+#thanhngang{
+    display: flex;
+    height: 200px;
+    margin-left: 0px;
+    color: white;
+    background-color: #fca4dc;
+    height: 80px;
+    padding-left: 270px;
+    
+}
+.menu{
+    margin: 0px 0px;
+    height: 50px;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+   
+}
+.menu:hover{
+    color:black;
+    background-color: #a4fbfc;
+    
+}
+#Logo{
+    text-align: center;
+    background-image: url(../IMG/anhthanhvien/3K9A1949.JPG);
+    border:white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+}
+#tieude{
+    text-align: center;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
