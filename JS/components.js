@@ -28,13 +28,13 @@ components.homeScreen =`
         <h4  style="text-align: center;">Members</h4>
         <div class="ban">
             <div class="thanhvien"   style="width: 120px;" ><h5 class="theten" >Yên Hạnh </h5>   
-            <img class="anhdaidien " src="../B1_web_/IMG/anhthanhvien/259855463_653888882272753_4064261298107739833_n.jpg" alt=""></div>
+            <img class="anhdaidien "https://scontent.fhph1-3.fna.fbcdn.net/v/t39.30808-6/260489088_1074543056660586_1991535148912838968_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=4zHYyc6TyAYAX9Q2Edo&tn=oB9FVPH0-dN7aMfq&_nc_ht=scontent.fhph1-3.fna&oh=b67bb20074da4f9a7596878cc6f5951c&oe=61AA34C7" alt=""></div>
             <div class="gioithieu" ><p>Lê Yên Hạnh <br></p> <p> Birth:30/11/2005 </div>
             <div class="thanhvien" style="width: 120px;"><h5 class="theten">Minh Phương</h5>
-            <img class="anhdaidien" src="../B1_web_/IMG/anhthanhvien/260864667_415386933635634_2642141238648471232_n.jpg" alt=""></div>
+            <img class="anhdaidien" src="https://scontent.fhph1-1.fna.fbcdn.net/v/t39.30808-6/260404545_401715704969252_4077216518665613809_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=ovw-e3Ab9KQAX_HocaC&_nc_ht=scontent.fhph1-1.fna&oh=3c048bff698790e49968d828cd0a7059&oe=61A86BA6" alt=""></div>
             <div class="gioithieu2"><p>Trịnh Minh Phương <br> Birth: 20/02/2005  </p></div>
             <div class="thanhvien" style="width: 120px;"><h5 class="theten">Nguyễn Hậu </h5>
-            <img class="anhdaidien" src="../B1_web_/IMG/anhthanhvien/260178258_1332305580532413_7752996159716816287_n.jpg" alt=""></div>
+            <img class="anhdaidien" src="https://scontent.fhph2-1.fna.fbcdn.net/v/t39.30808-6/258235602_1007903136454844_2447816749979331706_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=P7ygv2Bso4wAX99rFEk&tn=oB9FVPH0-dN7aMfq&_nc_ht=scontent.fhph2-1.fna&oh=70fab698ca4192ea7f34e36daf5cb7c4&oe=61A9D7C6" alt=""></div>
             <div class="gioithieu3"><P>Nguyễn Thị Hậu <br> Birth: 02/08/2005</P></div>
         </div>
 
@@ -44,7 +44,7 @@ components.homeScreen =`
             <img class="anhdaidien" src="../B1_Web_/IMG/anhthanhvien/262402990_291430122904135_2822240004441470897_n.jpg" alt=""></div>
             <div class="gioithieu" ><p>Trương Đức Thiện <br> Birth: 17/12/2005  </p></div>
             <div  class="thanhvien" ><h5 class="theten">Ngọc Duyên</h5>
-            <img class="anhdaidien"  src="../B1_web_/IMG/anhthanhvien/260433612_442673877370487_6210675491296601248_n.jpg" alt=""></div>
+            <img class="anhdaidien"  src="https://scontent.fhph1-2.fna.fbcdn.net/v/t39.30808-6/259629178_1163732217693470_2178325955481720083_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=To2Z2R6ZicAAX9ci7Ll&_nc_ht=scontent.fhph1-2.fna&oh=da6092db1599fb8ffcffa5d9578ca5e7&oe=61A86521" alt=""></div>
             <div class="gioithieu2"><p>Trương Lê Ngọc Duyên <br> Birth: 10/02/2005  </p></div>
             <div class="thanhvien"><h5 class="theten">Ngọc Ánh</h5>
             <img class="anhdaidien" src="../B1_web_/IMG/anhthanhvien/260857263_1012290559319015_3145646781814782878_n.jpg" alt=""></div>
